@@ -1,8 +1,9 @@
 ---
 title: 'Behind the Scenes'
+root: "/docs"
+parents: ["Behind the Scenes"]
 description: "Common things that power lots of Cloud Native projects"
 date: 2010-11-14T15:14:39+10:00
-type: "docs"
 ---
 
 [etcd](https://etcd.io) is a key-value storage system that Kubernetes uses. Also, a lot of other cloud native systems use it.

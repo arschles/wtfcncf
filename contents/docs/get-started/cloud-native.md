@@ -1,7 +1,8 @@
 ---
 title: "Cloud Native"
 date: 2019-11-14T13:41:08-08:00
-type: "docs"
+root: "/docs"
+parents: ["Getting Started"]
 ---
 
 ## What Cloud Native does

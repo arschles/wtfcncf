@@ -1,6 +1,7 @@
 ---
 title: "Helping with the details"
-type: "docs"
+root: '/docs'
+parents: ['Production Details']
 ---
 
 The details!

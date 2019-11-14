@@ -1,8 +1,7 @@
 ---
-title: "Deploying your apps"
-description: How do you deploy to production?
-date: 2010-11-14T15:14:39+10:00
-type: "docs"
+title: "Deploying your apps
+root: "/docs"
+parents: ["Deploying"]
 ---
 
 # Deploying your apps to production

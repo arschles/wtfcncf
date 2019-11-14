@@ -1,5 +1,7 @@
 ---
-description: Open Application Model
+title: "Open Application Model"
+root: "/docs"
+parents: ["Defining Applications"]
 ---
 
 # OAM

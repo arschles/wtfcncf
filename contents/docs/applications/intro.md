@@ -1,4 +1,7 @@
 ---
+title: "Introduction"
+root: "/docs"
+parents: ["Defining Applications"]
 description: Let's talk about what a cloud native application is
 ---
 

@@ -1,11 +1,9 @@
 ---
 title: 'Etcd'
 description: "A key/value database for all things cloud native"
-date: 2010-11-14T15:14:39+10:00
-weight: 2
-bookToc: false
-notoc: true
-menu: "main"
+root: "/docs"
+parents: ["Behind the Scenes"]
+date: "2019-11-14"
 ---
 
 [etcd](https://etcd.io) is a key-value storage system that Kubernetes uses. Also, a lot of other cloud native systems use it.

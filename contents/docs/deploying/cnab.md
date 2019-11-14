@@ -1,7 +1,8 @@
 ---
 title: "CNAB"
 date: 2019-11-14T13:14:13-08:00
-type: "docs"
+root: "/docs"
+parents: ["Deploying"]
 ---
 
 >**C**loud **N**ative **A**pplication **B**undles

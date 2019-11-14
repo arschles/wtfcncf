@@ -1,5 +1,8 @@
 ---
+title: "Rudr"
 description: An OAM implementation for Kubernetes
+root: "/docs"
+parents: ["Defining Applications"]
 ---
 
 # Rudr

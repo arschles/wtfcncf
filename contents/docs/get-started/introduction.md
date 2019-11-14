@@ -1,7 +1,7 @@
 ---
 title: Introduction
 root: '/docs'
-parents: ['Get Started']
+parents: ['Getting Started']
 ---
 
 # Welcome to Cloud Native, Friend!
@@ -16,11 +16,8 @@ No, really, that's it. This site sticks to answering those two questions!
 
 We built this site with a reference guide in mind, so we hope that it'll be easy for you to quickly look up a project or technology and decide if you want to look into it further.
 
-# Get Started
+# [Get Started](/read/cloud-native)
 
-The next page in this book is on Cloud Native itself.
-
-[Get Started](/read/cloud-native)
 
 -----
 

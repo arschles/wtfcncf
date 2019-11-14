@@ -70,7 +70,7 @@ export const SidebarContents = ({ root }: Props) => {
     <StaticQuery
       query={graphql`
         query sidebarContentQuery {
-          allMdx(sort: { order: ASC, fields: [fields___slug] }) {
+          allMdx(sort: { order: DESC, fields: [fields___slug] }) {
             edges {
               node {
                 fields {

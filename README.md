@@ -1,8 +1,8 @@
 sample: https://www.jannikbuschke.de/gatsby-antd-docs/
 
-# Gatsby Ant-Design Documentation Starter
+# WTF, CNCF!
 
-Forked from https://github.com/cvluca/gatsby-starter-markdown.
+>Forked from https://github.com/cvluca/gatsby-starter-markdown.
 
 This starter is boilerplate for (technical) documentation websites optionally accompanied by a blog (you can use it forever you want of course).
 

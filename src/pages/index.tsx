@@ -23,12 +23,12 @@ const IndexPage = () => {
       </p>
       <br />
       <Button.Group size="large">
-        <Button href="https://twitter.com/jannikbuschke" target="_blank">
+        <Button href="https://twitter.com/arrschles" target="_blank">
           Twitter
           <Icon type="twitter" />
         </Button>
         <Button
-          href="https://github.com/jannikbuschke/gatsby-antd-docs"
+          href="https://github.com/arschles/wtfcncf"
           target="_blank"
         >
           Github

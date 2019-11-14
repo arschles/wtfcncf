@@ -1,5 +1,3 @@
-sample: https://www.jannikbuschke.de/gatsby-antd-docs/
-
 # WTF, CNCF!
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/477e3c3d-e5ca-436e-8995-f263886007a3/deploy-status)](https://app.netlify.com/sites/vibrant-jang-f9ba82/deploys)

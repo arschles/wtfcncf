@@ -1,5 +1,5 @@
 ---
-title: "Deploying your apps
+title: "Deploying your apps"
 root: "/docs"
 parents: ["Deploying"]
 ---

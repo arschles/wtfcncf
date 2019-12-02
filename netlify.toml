@@ -11,4 +11,4 @@
   publish = "public"
 
   # Default build command.
-  command = "gatsby build'"
+  command = "gatsby build"
